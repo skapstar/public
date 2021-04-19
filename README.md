@@ -1,6 +1,6 @@
 # public
 hello world
-I am a student two
+I am student three
 Add more info
 Adding line five
 
